@@ -52,3 +52,9 @@ En este apartado se requiere el conocimiento en varias herramientas y metodolog√
 - Arquitectura de datos
 - Microservicios
 - Principios SOLID
+- Principios ACID
+
+### Links de entrevistas backend
+- [10 preguntas clave](https://www.sundevs.com/es/blog/como-contratar-desarrollador-back-end-10-preguntas-clave-para-una-entrevista)
+- [Preguntas a programador Java](https://javapro.org/programming-languages/preguntas-para-entrevista-de-programacion-java-full-stack/)
+- 

@@ -30,8 +30,8 @@ Se recomienda practicar dirariamente cada respuesta grabándose, revisando la gr
 En este apartado se requiere el conocimiento en varias herramientas y metodologías empleadas en la actualidad desde el momento de la planeación, desarrollo e integración:
 
 ### Metodologías y herramientas
-- Git y GitHub
-- Metodologías Ágiles
+- Git y sistemas de alojamiento de Git. [link 1](https://es.myservername.com/top-90-sql-interview-questions), [Link 2](https://es.bitdegree.org/tutoriales/tutorial-git/)
+- Metodologías Ágiles [Link 1](https://www.ibee.education/post/metodologias-agiles-preguntas-frecuentes/), [Link 2](https://trello.com/c/BMmP2Pbz/6-como-se-planifica-en-scrum)
 - JIRA
 - Integración continua
 - Testing manual y automatizado
